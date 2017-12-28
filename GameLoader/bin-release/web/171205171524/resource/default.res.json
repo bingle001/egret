@@ -1,0 +1,21 @@
+{
+	"groups": [
+		{
+			"keys": "",
+			"name": "preload"
+		},
+		{
+			"keys": "",
+			"name": "config"
+		},
+		{
+			"keys": "",
+			"name": "lanuch"
+		},
+		{
+			"keys": "",
+			"name": "proto"
+		}
+	],
+	"resources": []
+}

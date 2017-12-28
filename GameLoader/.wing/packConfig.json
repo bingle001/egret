@@ -1,0 +1,12 @@
+{
+    "useClip": false,
+    "maxImageWidth": 2048,
+    "maxImageHeight": 2048,
+    "defaultResPath": "f:\\my_git\\egret\\GameLoader\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true,
+        "config": true,
+        "lanuch": true,
+        "proto": true
+    }
+}
