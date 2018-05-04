@@ -22,7 +22,6 @@ module ScreenMovies {
             playingGrp.parent.removeChild(playingGrp);
         }
         playingGrp = null;
-        console.log(`clear grp.....`);
     }
 
     export function MovieStart(effectType:number) {
@@ -44,7 +43,6 @@ module ScreenMovies {
          if (effectType == 5) {
             effectType = Math.ceil(Math.random() * 4)
         }
-        console.log(`播放特效：`, effectType);
 
         //循环创建多个截图bitmap 这里num自由设置
         var tx1Number = 40;
